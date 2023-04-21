@@ -1,0 +1,14 @@
+[
+    {
+      "id":1,"nombre":"Camiseta Titular","precio":19500,"img":"../img/RemeraTitular.png","cantidad":1
+    },
+    {
+        "id":2,"nombre":"Camiseta Titular","precio":19500,"img":"../img/RemeraTitular.png","cantidad":1
+    },    {
+        "id":3,"nombre":"Camiseta Titular","precio":19500,"img":"../img/RemeraTitular.png","cantidad":1
+    }
+
+
+]
+
+
